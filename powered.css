@@ -1,0 +1,6 @@
+.powered {
+    z-index: 10000;
+    position: absolute;
+    top: 65px;
+    left: 70px;
+}

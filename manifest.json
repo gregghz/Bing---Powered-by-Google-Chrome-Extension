@@ -1,7 +1,7 @@
 {
 "update_url":"http://clients2.google.com/service/update2/crx",
 	"name": "GING",
-	"version": "1.0",
+	"version": "1.1",
 	"description": "Add 'powered by Google' to Bing search pages",
 	"content_scripts": [{
 	    "matches": ["http://www.bing.com/*"],
